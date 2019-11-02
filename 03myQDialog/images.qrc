@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/Activity Monitor.ico</file>
+        <file>images/Adobe GoLive CS.ico</file>
+        <file>images/Adobe Illustrator CS.ico</file>
+        <file>images/Adobe ImageReady CS.ico</file>
+        <file>images/Adobe InDesign CS.ico</file>
+        <file>images/Adobe Photoshop CS.ico</file>
+        <file>images/Audion.ico</file>
+        <file>images/BBEdit.ico</file>
+        <file>images/Candybar.ico</file>
+        <file alias="dc">images/doc.ico</file>
+        <file>images/DragThing.ico</file>
+        <file>images/GameRanger.ico</file>
+        <file>images/iPulse.ico</file>
+        <file>images/Konfabulator.ico</file>
+        <file>images/LimeWire.ico</file>
+        <file>images/Pixadex.ico</file>
+        <file>images/Salling Clicker.ico</file>
+        <file>images/Speed Download.ico</file>
+        <file>images/TinkerTool.ico</file>
+        <file>images/Unison.ico</file>
+        <file>images/xScope.ico</file>
+    </qresource>
+</RCC>
