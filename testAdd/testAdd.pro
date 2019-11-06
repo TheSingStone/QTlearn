@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2019-11-05T19:01:55
+# Project created by QtCreator 2019-11-05T19:15:22
 #
 #-------------------------------------------------
 
@@ -13,8 +13,14 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    component.cpp \
+    control.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    component.h \
+    control.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    component.ui \
+    control.ui

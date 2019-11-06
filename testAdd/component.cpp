@@ -6,6 +6,7 @@ component::component(QWidget *parent) :
     ui(new Ui::component)
 {
     ui->setupUi(this);
+    ui->pushButton->setVisible(true);
 }
 
 component::~component()
