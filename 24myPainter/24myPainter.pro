@@ -12,9 +12,10 @@ TARGET = 24myPainter
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        cmainwindow.cpp
+SOURCES += main.cpp \
+    paintedwidget.cpp
 
-HEADERS  += cmainwindow.h
+HEADERS  += \
+    paintedwidget.h
 
-FORMS    += cmainwindow.ui
+FORMS    +=

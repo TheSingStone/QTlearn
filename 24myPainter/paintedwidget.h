@@ -4,9 +4,9 @@
 #include <QObject>
 
 class PaintedWidget
-{
+{   Q_OBJECT
 public:
-    PaintedWidget();
+    PaintedWidget(QWidget *parent  = 0);
 };
 
 #endif // PAINTEDWIDGET_H

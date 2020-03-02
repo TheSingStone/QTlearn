@@ -5,7 +5,7 @@ EventLabel::EventLabel()
 }
 void EventLabel::mouseMoveEvent(QMouseEvent *event)
 {
-    this->setText(QString("<center><h1>Move: (%d,%d)</h1></center>")
+    this->setText(QString("<center><h1>Move: (%1,%2)</h1></center>")
                   .arg(QString::number(event->x()),QString::number(event->y())));
 }
 

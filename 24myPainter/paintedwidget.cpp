@@ -1,6 +1,6 @@
 #include "paintedwidget.h"
 
-PaintedWidget::PaintedWidget()
+PaintedWidget::PaintedWidget(QWidget *parent)
 {
 
 }
