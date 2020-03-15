@@ -1,0 +1,9 @@
+﻿Daily Task：
+*T_1:QGammaMeasure的编写；
+	T_1.1 View切换页面；
+	T_1.2 Measure
+*T_2:Mac7P的VALC和LineOD的检查；
+    prepare的Tool修改；
+*T_3:以前任务的捡漏：CModel的Vsd；
+*T_4:VideoPath Tool方面和Spec方面；
+*T_5:学习C++
