@@ -22,6 +22,6 @@ int main(int argc, char *argv[])
     painter.drawText(image.rect(),Qt::AlignCenter,"Hello");
     //将Hello写在Image的中心
     int n = 100;//这个为图片的压缩度。0/100
-    image.save("image.bmp","bmp",n);
+    image.save("text.png","PNG",n);
     return a.exec();
 }
